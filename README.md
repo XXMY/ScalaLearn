@@ -1,0 +1,2 @@
+# ScalaLearn
+Learning of Scala
